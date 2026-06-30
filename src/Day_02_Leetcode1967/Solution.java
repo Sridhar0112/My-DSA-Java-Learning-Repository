@@ -1,4 +1,4 @@
-package Day_02_Leetcode1967_Number_of_Strings_Appear_Substrings_in_Word;
+package Day_02_Leetcode1967;
 /*
 
 problems:

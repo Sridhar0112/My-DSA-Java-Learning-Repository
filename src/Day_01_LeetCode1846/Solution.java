@@ -1,4 +1,4 @@
-package Day_01_LeetCode1846_MaximumElementAfterDecrementingAndRearranging;
+package Day_01_LeetCode1846;
 
 import java.util.Arrays;
 
